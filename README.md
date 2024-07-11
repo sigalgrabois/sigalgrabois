@@ -1,4 +1,7 @@
 ## Hi there 👋
+Welcome to my GitHub profile! <br>
+I'm Sigal Grabois, an MSc. Electrical Engineering student specializing in biomedicine at Bar Ilan University. <br>
+Here, you'll find my projects and contributions to data science, AI research, and bioinformatics.
 
 <!--
 **sigalgrabois/sigalgrabois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
